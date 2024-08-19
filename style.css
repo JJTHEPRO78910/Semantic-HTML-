@@ -1,0 +1,43 @@
+footer {
+background-color: #777;
+    
+padding: 10px;
+    
+text-align: center;
+    
+color: white;
+    
+}
+nav {
+float: right;
+        
+
+
+height: 300px; /* only for demonstration, should be removed */
+        
+padding: 20px;
+        
+}
+ li {
+text-size-adjust: 0.58;
+
+}
+nav ul {
+
+list-style-type: none;
+            
+padding: 0;
+}
+header {
+
+background-color: #666;
+                
+padding: 30px;
+                
+text-align: center;
+                
+font-size: 35px;
+                
+color: white;
+                
+}
